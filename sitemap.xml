@@ -8,5 +8,8 @@
     <image:image>
       <image:loc>http://pplats.com/images/asset%202@3x_inverted.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://pplats.com/images/pattern%20fill%201.png</image:loc>
+    </image:image>
   </url>
 </urlset>
