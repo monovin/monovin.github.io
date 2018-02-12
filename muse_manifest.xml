@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pplats.com" resolutions="1x" timestamp="1518459994472">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pplats.com" resolutions="1x" timestamp="1518460706263">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="475161166" ref="index"/>
+    <file name="index.css" crc="4110656880" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,11 +14,15 @@
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u243.php" crc="3793558735" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="asset 2.png" crc="106731542" seo="true" ref="index">
+    <file name="asset 2@3x_inverted.png" crc="452678998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="266058405" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3912390095" seo="true" mt="1518459811283" redirect="true"/>
+  <file name="index.html" crc="3924725440" seo="true" mt="1518460693000" redirect="true"/>
 </manifest>
